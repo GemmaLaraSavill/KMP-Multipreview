@@ -1,4 +1,4 @@
-rootProject.name = "Multipreviews"
+rootProject.name = "KMP-Multipreviews"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
